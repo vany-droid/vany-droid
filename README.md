@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there
+## My main language
+![C](https://shields.io)
+![Bash](https://shields.io)
 
 <!--
 **vany-droid/vany-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
