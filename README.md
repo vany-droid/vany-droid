@@ -1,7 +1,11 @@
 ## Hi there
 ### My main language
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="c" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="bash" width="40" height="40"/>
+</p>
+
 
 <!--
 **vany-droid/vany-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
